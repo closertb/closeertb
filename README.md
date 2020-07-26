@@ -17,6 +17,6 @@
 </div>
 </div>
 
-<div style="text-align: center">
+<div align="center">
  <img width="100px" style="width:80px" src="https://segmentfault.com/img/remote/1460000023356218">
 <div>
