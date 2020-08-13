@@ -15,18 +15,18 @@
 <tr>
 <td style="width:50%" align="top">
 
+ - [BabelJs 入门指引？](https://closertb.site/blog/59)
  - [当我们在用Hooks时，我们到底在用什么？](https://closertb.site/blog/57)
  - [组件库重构，支持antd 4.0](https://closertb.site/blog/54)
  - [也许这才是你想要的微前端方案 ](https://closertb.site/blog/52)
  - [webpack 打包的代码怎么在浏览器跑起来的？看不懂算我输](https://closertb.site/blog/51)
- - [Web网页渲染的几种模式](https://closertb.site/blog/50)
 </td>
 <td style="width:50%" align="top">
 
  - 支付宝小程序业务开发与调试工具研究 
  - 前端构建持续集成的方案探索
  - 耶鲁公开课：金融市场
- - 杭州出差中，未来规划
+ - 迷茫中...
 </td>
 </tr>
 </table>
