@@ -23,7 +23,7 @@
 </td>
 <td style="width:50%" align="top">
 
- - 小程序业务开发与调试工具研究 
+ - webpack 配置搬砖家
  - 前端构建持续集成的方案探索
  - 微信: 5848518threefour 注明来源
 </td>
